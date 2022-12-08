@@ -13,6 +13,6 @@ catch (error){
         )
     }
     else{
-        alert( "ça viens d'autre chose");
+        alert( "ça viens d'autre chosee");
     }
 }
